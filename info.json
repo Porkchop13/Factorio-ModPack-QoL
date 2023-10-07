@@ -5,6 +5,17 @@
     "author": "Porkchop13",
     "factorio_version": "1.1",
     "dependencies": [
+        "AutoDeconstruct",
+        "automatic-station-painter-continued",
+        "Automatic_Train_Painter",
+        "belt-visualizer",
+        "BeltRouter",
+        "BetterAlertArrows",
+        "blueprint-sandboxes",
+        "BlueprintTools",
+        "BottleneckLite",
+        "ColorCodedPlanners",
+        "Gun_Turret_Alerts",
         "MouseOverConstruction"
     ],
     "description": "Pack of Quality of Life mods that are generally safe to add/remove with an existing save."
